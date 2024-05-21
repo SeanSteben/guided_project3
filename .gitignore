@@ -1,1 +1,3 @@
-.csv
+*.csv
+troop_movements.csv
+troop_movements10m.csv
